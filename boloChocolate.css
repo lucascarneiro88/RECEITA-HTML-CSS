@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400;700&family=EB+Garamond&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400;700&display=swap');
+
+body{
+    background-color:rgb(168, 127, 110);
+    text-align: center;
+}
+h1{
+    margin-top: -1rem;
+    font-size: 6rem;
+    font-family: 'Dancing Script', cursive;
+  } 
+  h2{
+    margin-top: -4rem;
+    font-size: 3rem;
+    font-family:'EB Garamond', serif;
+  }
+
+ul, li{
+  display: block;
+  align-items: center;
+  }
+  header {
+  width: 100%;
+  height: 15rem;
+  background-image: url(bolo.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  }
+  
+  header img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .Ingredientes{
+    margin-top: -2rem;
+    font-size: 28px;
+    font-family:'EB Garamond', serif;
+
+  }
+  

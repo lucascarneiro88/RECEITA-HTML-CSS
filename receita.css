@@ -1,0 +1,55 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400;700&family=EB+Garamond&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400;700&display=swap');
+
+ 
+ body{
+    background-color:wheat;
+    text-align: center;
+}
+section {
+    color: #fff;
+    font-size: 8rem;    
+    font-family: 'Dancing Script', cursive;
+} 
+ 
+  section img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+
+  button {
+  margin-top: -3rem;  
+  margin: 4rem;
+  font-family: 'EB Garamond', serif;
+  text-decoration: none;
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 18px;
+  line-height: 1.5;
+  background: #f5ca7b; 
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background: #edc79f;
+  color: #fff;
+}
+
+a{
+
+ 
+  margin: 1rem;
+  text-decoration: none;
+   color: #724a1f;
+
+}
+
